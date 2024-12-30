@@ -40,3 +40,6 @@ Contains essential contact links and social media icons, making it easy for visi
 HTML & CSS: Built with HTML for structure and CSS for styling, animations, and transitions.
 Responsive Design: Uses media queries to ensure compatibility with different devices.
 Animations: Custom CSS keyframes for interactive and fluid animations.
+
+#CHANGES
+Due to privacy conserns I didnt uploaded my profile img in this if you want to jut paste a photo in the photos folder name "profile_photo"..
