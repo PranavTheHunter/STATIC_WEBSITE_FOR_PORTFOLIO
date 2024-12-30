@@ -43,3 +43,7 @@ Animations: Custom CSS keyframes for interactive and fluid animations.
 
 #CHANGES
 Due to privacy conserns I didnt uploaded my profile img in this if you want to jut paste a photo in the photos folder name "profile_photo"..
+
+**output**
+![image](https://github.com/user-attachments/assets/514264ba-0508-47e3-abe1-9d97911c1e4f)
+![image](https://github.com/user-attachments/assets/e26769eb-b6bf-48c5-8022-bde78d7a8e10)
